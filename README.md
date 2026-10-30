@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a BCA graduate and developer passionate about building practical software, AI-powered applications, and automation solutions. I enjoy turning ideas into working products, experimenting with emerging technologies, and creating tools that solve real-world problems. Always learning, building, and exploring what's next in tech.
+I'm a BCA graduate and developer passionate about building practical software, AI-powered applications, and automation solutions. I enjoy turning ideas into working products, experimenting with emerging technologies, and creating tools that solve real-world problems. Always learning, building, and exploring what's next in tech. My Portfolio-https://tushardesigns.vercel.app/
 
 
 ## 🌐 Socials:
