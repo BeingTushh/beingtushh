@@ -12,9 +12,9 @@ My Portfolio: https://tushardesigns.vercel.app/
 
 <p align="center">
   <img
-    src="./profile-3d-contrib/profile-night-green.svg"
+    src="./profile-3d-contrib/profile-green-animate.svg"
     width="100%"
-    alt="3D GitHub Contribution Graph"
+    alt="Animated 3D GitHub Contributions"
   />
 </p>
 
